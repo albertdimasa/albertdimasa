@@ -3,6 +3,11 @@
   background-color: #fcecdd;
 }
 
+.btn-warning {
+  border-radius: 10px;
+  font-weight: 500;
+}
+
 #portofolio {
   background-color: #fcecdd;
 }

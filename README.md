@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/albertdimasa](https://github.com/albertdimasa)
 
-- 🧠 I am currently learning **(LFE:Lisp Flavored Erlang)**
+- 🧠 I am currently learning **(Node JS, Vue JS, Laravel)**
 
 - 📫 How to reach me **albertabraham28@gmail.com**
 

@@ -7,8 +7,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/albertdimasa](https://github.com/albertdimasa)
 
-- 🧠 I am currently learning **(Node JS, Vue JS, Laravel)**
+- 🧠 I am currently learning **(Laravel, Node JS, Vue JS, & etc)**
 
 - 📫 How to reach me **albertabraham28@gmail.com**
 
-- ⚡ Fun fact **I love programming, traveling, and cats 😻**
+- ⚡ Fun fact **I love programming, anime, and cats 😻**
